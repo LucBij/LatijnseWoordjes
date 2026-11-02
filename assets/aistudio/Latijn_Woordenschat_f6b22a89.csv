@@ -1,0 +1,189 @@
+Nummer,Grondwoord,Middenkolom,Vertaling,Afleiding
+1,amīcus,"amīcī, m.",de vriend,Fr. l'ami
+2,deus,"deī, m.",de god,Fr. le dieu
+3,dominus,"dominī, m.",de meester,Ndl. domineren
+4,equus,"equī, m.",het paard,
+5,fīlius,"fīliī, m.",de zoon,Fr. le fils
+6,servus,"servī, m.",de slaaf,serveren
+7,aqua,"aquae, v.",het water,Ndl. aquarium
+8,familia,"familiae, v.",het gezin; het personeel,Ndl. familie
+9,via,"viae, v.",de weg,via viaduct
+10,monumentum,"monumentī, o.",het monument; het aandenken,
+11,templum,"templī, o.",de tempel,
+12,vīnum,"vīnī, o.",de wijn,Fr. le vin
+13,pater,"patr-is, m.",de vader,
+14,senex,"sen-is, m.",de oude man,Ndl. seniel
+15,virgō,"virgin-is, v.",de maagd; het meisje,
+16,vōx,"vōc-is, v.",de stem; het woord,Fr. la voix; Eng. the voice
+17,flūmen,"flūmin-is, o.",de rivier,vloeien vloeit
+18,sīdus,"sīder-is, o.",de ster; het sterrenbeeld,
+19,fēmina,"fēminae, v.",de vrouw,Fr. la femme
+20,canis,"can-is, m.",de hond,Fr. chien
+21,iuvenis,"iuven-is, m.",de jongeman,Ndl. jong
+22,mercātor,"mercātōr-is, m.",de handelaar,Eng. merchandise
+23,mīles,"mīlit-is, m.",de soldaat,Ndl. militair
+24,senātor,"senātōr-is, m.",de senator,Ndl. kap
+25,nox,"noct-is, v.",de nacht,Fr. la nuit
+26,caput,"capit-is, o.",het hoofd; het hoofdstuk,
+27,est,(werkwoord),"(hij, zij, het, er) is","Fr. (il, elle) est"
+28,sunt,(werkwoord),"(zij, er) zijn","Fr. (ils, elles) sont"
+29,ibi,(bijwoord),daar,
+30,saepe,(bijwoord),dikwijls,
+31,aut,(voegwoord),of,
+32,et,(voegwoord),en; ook,Fr. et
+33,-que,(voegwoord),en,
+34,sed,(voegwoord),maar,
+35,avus,"avī, m.",de grootvader,
+36,rosa,"rosae, v.",de roos,Ndl. roos
+37,dōnum,"dōnī, o.",het geschenk,Fr. donner
+38,dux,"duc-is, m.",de leider,
+39,māter,"mātr-is, v.",de moeder,
+40,corpus,"corpor-is, o.",het lichaam,Fr. le corps
+41,iam,(bijwoord),al; dadelijk,
+42,interdum,(bijwoord),soms,
+43,quoque,(bijwoord),ook,
+44,enim,(voegwoord),want,
+45,cūria,cūriae,de curia (het Romeinse senaatsgebouw),Ndl.
+46,fābula,fābulae,het verhaal; het toneelstuk,Ndl. fabel
+47,lūna,lūnae,de maan,Fr. la lune
+48,forum,forī,het forum (het Romeinse marktplein),Ndl.
+49,iūdex,"iūdic-is, m.",de rechter,
+50,onus,"oner-is, o.",de last,
+51,tempus,"tempor-is, o.",de tijd; het moment,Fr. le temps tempo
+52,nōn,(ontkenning),niet,Fr. non
+53,semper,(bijwoord),altijd,
+54,statua,statuae,het standbeeld,
+55,eques,"equit-is, m.",de ruiter; de ridder,Lat. equus
+56,labōrāre,labōrō,werken; lijden,Ndl. laboratorium
+57,appārēre,appāreō,verschijnen; blijken,
+58,dormīre,dormiō,slapen,Fr. dormir
+59,domī,(bijwoord),thuis,Ndl. domein
+60,etiam,(bijwoord),ook; zelfs,
+61,nōndum,(bijwoord),nog niet,
+62,nōn iam,(bijwoord),niet meer,Latijn non
+63,nunc,(bijwoord),nu,Ndl. nu
+64,theātrum,theātrī,het theater,Ndl. theater
+65,mulier,"mulier-is, v.",de vrouw,
+66,uxor,"uxōr-is, v.",de echtgenote,
+67,cōgitāre,cōgitō,(na)denken,concentreren data-gegevens
+68,dare,dō,geven,
+69,narrāre,narrō,vertellen,ne rare !
+70,properāre,properō,zich haasten,proper
+71,rogāre,rogō,vragen,Fr. l'interrogation
+72,spectāre,spectō,(be)kijken; op het oog hebben,"Ndl. spektakel, ndl. staren"
+73,stāre,stō,staan; blijven staan,ndl
+74,gaudēre,gaudeō,blij zijn,
+75,habēre,habeō,hebben; beschouwen als,
+76,respondēre,respondeō,antwoorden,Fr. répondre
+77,sedēre,sedeō,zitten,
+78,vidēre,videō,zien,Ndl. video
+79,aperīre,aperiō,openen; onthullen,"Ndl. het aperitief, bekendmaken"
+80,venīre,veniō,komen,Fr. venir
+81,esse,sum,zijn; bestaan,être
+82,cūr?,(bijwoord),waarom?,
+83,domum,(bijwoord),naar huis,domi
+84,ideō,(bijwoord),daarom,idee
+85,intereā,(bijwoord),intussen,ndl
+86,pecūnia,pecūniae,het geld,"pence, peconic"
+87,aedificium,aedificiī,het gebouw,
+88,spectāculum,spectāculī,het schouwspel,"Ndl. spektakel, Lat. spectare"
+89,fīnis,"fīn-is, m.",de grens; het einde; het doel,Fr. la fin / Eng. the finish
+90,iter,"itiner-is, o.",de reis; de weg,intercitytrein
+91,laetus,"~a, ~um",vrolijk,lachen
+92,lātus,"~a, ~um",breed; uitgestrekt,brede lat
+93,longus,"~a, ~um",lang,Fr. long
+94,magnus,"~a, ~um",groot; belangrijk,magnum ijs
+95,optimus,"~a, ~um",beste; zeer goed,Ndl. de optimist
+96,timidus,"~a, ~um",bang,Ndl. timide
+97,clāmāre,clāmō,roepen,reclameren
+98,invenīre,inveniō,vinden; ontdekken,
+99,tum of tunc,(bijwoord),op dat moment,toen
+100,dum,(voegwoord),terwijl,
+101,amāre,amō,beminnen; houden van,Fr. aimer
+102,monēre,moneō,waarschuwen,monitor
+103,audīre,audiō,horen; luisteren naar,Ndl. de auditie
+104,altus,"~a, ~um",hoog; diep,Alpen
+105,magnificus,"~a, ~um",prachtig,Ndl. magnifiek
+106,multī,"~ae, ~a",veel,Ndl. multicultureel
+107,novus,"~a, ~um",nieuw,Fr. nouveau
+108,Rōmānus,"~a, ~um",Romeins,ndl
+109,subitō,(bijwoord),plotseling,
+110,antīquus,"~a, ~um",oud,Ndl. antiek
+111,malus,"~a, ~um",slecht,Fr. mal
+112,tōtus,"~a, ~um",geheel,Ndl. totaal
+113,nam,(voegwoord),want,
+114,quod,(voegwoord),omdat,
+115,bonus,"~a, ~um",goed,"Fr. bon, ndl bonus"
+116,īrātus,"~a, ~um",woedend,irriteert
+117,stultus,"~a, ~um",dwaas,stunter
+118,bene,(bijwoord),goed,Fr. bien
+119,ūnus,"~a, ~um",één; enig,Fr. un
+120,duo,"~ae, ~o",twee,Fr. deux
+121,trēs,~tria; trium,drie,Fr. trois
+122,quattuor,,vier,Fr. quatre
+123,quīnque,,vijf,Fr. cinq
+124,sex,,zes,Fr. six
+125,septem,,zeven,Fr. sept
+126,octō,,acht,octopus
+127,novem,,negen,Fr. neuf
+128,decem,,tien,Fr. dix
+129,centum,,honderd,Fr. cent
+130,mīlle,,duizend,Fr. mille
+131,... mīlia,"mīl-ium, o. mv.",... duizend,
+132,mūrus,mūrī,de muur,
+133,cūra,cūrae,de zorg,
+134,tergum,tergī,de rug,
+135,prīnceps,"prīncip-is, m.",de voornaamste; de keizer,Ndl. de prins
+136,appellāre,appellō,aanspreken; noemen,Fr. appeler
+137,interrogāre,interrogō,(onder)vragen,interrogeer
+138,intrāre,intrō,binnengaan,Fr. entrer
+139,ōrnāre,ōrnō,versieren; in orde brengen,decor
+140,dēbēre,dēbeō,moeten; verschuldigd zijn,
+141,inquit,(werkwoord),"zegt hij, zij",
+142,iterum,(bijwoord),opnieuw,
+143,sīc,(bijwoord),zo,
+144,autem,(voegwoord),maar,
+145,-ne?,(vraagpartikel),(wordt niet vertaald),
+146,abesse,absum,afwezig zijn; verwijderd zijn,
+147,adesse,adsum,aanwezig zijn; helpen,
+148,superesse,supersum,overblijven,
+149,posse,possum,kunnen,
+150,calidus,"~a, ~um",warm,Fr. chaud
+151,certus,"~a, ~um",zeker,Fr. certain
+152,dīgnus,"~a, ~um",waardig; passend,
+153,fessus,"~a, ~um",vermoeid,
+154,frīgidus,"~a, ~um",koud; koel,Ndl. frigo
+155,Graecus,"~a, ~um",Grieks,gratis
+156,grātus,"~a, ~um",dankbaar; aangenaam,gratie
+157,iūcundus,"~a, ~um",aangenaam,
+158,iūstus,"~a, ~um",rechtvaardig,Ndl. de justitie
+159,sānus,"~a, ~um",gezond,Fr. la santé
+160,dolēre,doleō,lijden; wenen (om),
+161,annus,annī,het jaar,Fr. l'an; l'année
+162,hortus,hortī,de tuin,horta
+163,taurus,taurī,de stier,Fr. le taureau
+164,insula,insulae,het eiland,island
+165,rēgia,rēgiae,het paleis,rex regio
+166,caelum,caelī,de hemel,Fr. le ciel
+167,mōnstrum,mōnstrī,het wonder; het monster,ndl.
+168,periculum,perīculī,het gevaar,
+169,homō,"homin-is, m.",de mens,Fr. l'homme
+170,rēx,"rēg-is, m.",de koning,regia
+171,urbs,"urb-is, v.",de stad,
+172,exspectāre,exspectō,(op)wachten; verwachten,
+173,habitāre,habitō,wonen,Fr. habiter
+174,parāre,parō,klaarmaken; verwerven,prepareren
+175,postulāre,postulō,eisen,eist post
+176,servāre,servō,bewaren; redden,"Ndl. de conserven, conservatief"
+177,vocāre,vocō,roepen; noemen,Lat. voc
+178,manēre,maneō,blijven,
+179,possidēre,possideō,bezitten; beheersen,
+180,rīdēre,rīdeō,(uit)lachen,Fr. rire
+181,reperīre,reperiō,vinden; te weten komen,repareren
+182,scīre,sciō,weten,sciens
+183,nescīre,nesciō,niet weten,
+184,nēmō,(onbepaald vnw.) m.,niemand,nemo de vis
+185,nihil,(onbepaald vnw.) o.,niets,nul
+186,maximē,(bijwoord),zeer; het meest,Ndl. maximum
+187,sī,(voegwoord),als,Fr. si
+188,ecce!,(tussenwerpsel),kijk!,
